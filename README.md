@@ -6,4 +6,4 @@
 
 [what]
 </br>\\\- an object which perform special operation in network 
-</br>\\\--- softmax function
+</br>\\\--- softmax function or normalized exponential function
