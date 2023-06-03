@@ -6,4 +6,4 @@
 
 [what]
 </br>\\\- an object which perform special operation in network 
-</br>\\\--- softmax function or normalized exponential function
+</br>\\\--- softmax function or normalized exponential function. represent a categorical distribution, which is a probability distribution over K different possible outcomes
